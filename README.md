@@ -1,1 +1,1 @@
-# jenkins-hello-world
+# Sample Spring Hello World Application
